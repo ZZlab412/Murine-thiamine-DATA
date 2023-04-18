@@ -1,0 +1,11 @@
+ID,Description,MetaboliteRatio,BgRatio,enrich_factor,pvalue,qvalue,metaboliteID,X
+ko04977,Vitamin digestion and absorption,13.89%,3.53%,3.93,0.003995938,0.215780676,meta_22;meta_2729;meta_2776;meta_279;meta_381,b
+ko04961,Endocrine and other factor,2.78%,0.71%,3.93,0.238628675,0.613616592,meta_61,b
+ko00220,Arginine biosynthesis,2.78%,1.06%,2.62,0.336170908,0.711315613,meta_1672,b
+ko00052,Galactose metabolism,2.78%,1.41%,1.97,0.421520363,0.711315613,meta_2452,b
+ko00190,Oxidative phosphorylation,2.78%,1.41%,1.97,0.421520363,0.711315613,meta_108,b
+ko04976,Bile secretion,8.33%,7.07%,1.18,0.481010785,0.744244345,meta_2302;meta_2589;meta_2776,b
+ko04913,Ovarian steroidogenesis,2.78%,2.12%,1.31,0.561407989,0.777334139,meta_2776,b
+ko00591,Linoleic acid metabolism,5.56%,6.36%,0.87,0.696372123,0.877178371,meta_2380;meta_640,b
+ko00564,Glycerophospholipid metabolism,19.44%,23.67%,0.82,0.799720431,0.877178371,meta_1042;meta_1471;meta_1973;meta_2336;meta_2380;meta_640;meta_999,b
+ko04136,Autophagy,5.56%,9.19%,0.6,0.873152071,0.877178371,meta_1471;meta_2336,b
